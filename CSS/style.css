@@ -22,5 +22,6 @@ a{
     overflow: hidden;
 }
 .bottom-cards{
+    position: relative;
     height: 600px;
 }
