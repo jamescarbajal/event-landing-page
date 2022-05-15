@@ -21,3 +21,7 @@ a{
     background-repeat: no-repeat;
     overflow: hidden;
 }
+.bottom-cards {
+    height: 500px;
+    position: flex;
+}
